@@ -1,0 +1,666 @@
+body{
+    padding:0;
+	margin:0;
+	overflow-x:hidden;
+    font-family:Poppins;
+    
+}
+
+.best-marketnig-header{
+padding:20px 0px;
+background-color: #eff1f8;
+}
+
+.header-content{
+    display:flex;
+}
+
+.bg-light{
+    background-color: #eff1f8 !important;
+}
+
+.header-manu{
+    display: flex;
+    
+    
+    
+}
+
+.nav-item i{
+margin-left: 15px;
+color:black;
+}
+
+.navbar{
+    padding-top:0px;
+}
+
+.nav-link{
+    color: #6E7E96 !important;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+   
+}
+
+.nav-link:hover{
+    color:black !important;
+    font-weight: bold;
+}
+
+
+.nav-item .fa-brands{
+background-color: #ffffff;
+border-radius: 100px;
+height: 40px;
+width: 40px;
+text-align: center;
+line-height: 40px;
+font-size: 20px;
+}
+
+
+.contant-header{
+    display: flex;
+}
+
+.contant-header .header-text{
+  padding:60px 0px 0px 40px;  
+}
+.contant-header .header-text h2{
+    color:#162044;
+    font-size: 55px;
+    font-weight:700;
+    font-style: normal
+    
+    
+}
+
+.contant-header .header-text p{
+font-size: 30px;
+font-weight: 300;
+font-style: normal;
+color:#162044;
+font-family:'Poppins', sans-serif;
+}
+
+.contant-header .header-text .btn-one{
+background-color: #fcf56a;
+color:black;
+font-size: 16px;
+font-weight: bold;
+padding:8px 30px;
+border: none;
+}
+
+.contant-header .header-text .btn-two{
+    color:black;
+    font-size: 16px;
+    font-weight: bold;
+    padding:8px 30px;
+   background-color: #ffffff;
+   border:1px solid #bfbaba;
+}
+
+.contant-header .header-text .btn-two:hover{
+    background-color: #fcf56a;
+}
+
+.contant-header .header-text button{
+    margin:15px;
+    border-radius: 20px;
+}
+
+.contant-header .header-text button i{
+    font-size: 20px;
+    margin:10px
+}
+
+.header-text .button{
+    margin-left: -15px;
+}
+
+
+.contant-header .contant-header-images img{
+    width: 100%;
+}
+
+/* hero-section style start from here */
+.partners-section{
+    padding:40px 0px;
+}
+.partners-images{
+    display: flex;
+}
+
+.partners-contant h2{
+    padding:20px 0px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+}
+
+.carousel-inner{
+    width:100% !important;
+}
+
+.carousel-control-prev{
+    padding:15px 15px !important;
+    background-color: rgb(130, 53, 53) !important;
+   
+    border-radius: 20px;
+    left:-80px;
+    height: 45px;
+    width: auto;
+    top:160px;
+}
+.carousel-control-next{
+    padding:15px 15px !important;
+    background-color: rgb(134, 60, 60) !important;
+    
+    border-radius: 20px;
+    right:-80px;
+    height: 45px;
+    width: auto;
+    top:160px;
+}
+
+.partners-section{
+    background-color: #eaeaea;
+}
+
+
+.partners-contant-pragarph p{
+    padding:35px 0px 30px 0px;
+font-size: 20px;
+font-family:'Poppins', sans-serif;
+color:#8193AE;
+}
+.partners-contant-pragarph h5{
+    padding:10px 0px 0px 0px;
+    color:#162044;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;;
+}
+.partners-contant-pragarph span{
+    padding:20px 0px 20px 0px;
+    font-size: 20px;
+    font-family:'Poppins', sans-serif;
+    color:#8193AE;
+}
+
+.partners-bg-img img{
+    padding:75px 0px 40px 0px;
+    width:450px;
+}
+.extra-pragaraph p{
+    font-size: 20px;
+font-family:'Poppins', sans-serif;
+color:#8193AE !important;
+}
+.extra-pragaraph h2{
+    color: #162044;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+/* hero-section style start from here */
+
+
+.service-section{
+    padding:60px 0px 0px 0px;
+}
+
+.service-contant h3{
+    text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  font-family:'Poppins', sans-serif;
+}
+
+.service-contant h6{
+    text-align: center;
+    color:#8193AE;
+    font-size: 25px;
+    font-weight:400;
+    font-family:'Poppins', sans-serif;
+}
+
+.service-slider{
+    display: flex;
+}
+
+.carousel-control-prev{
+    padding: 15px 15px !important;
+    background-color: rgb(135, 100, 26) !important;
+    border-radius: 20px;
+    left: -80px;
+    height: 45px;
+    width: auto;
+    top: 160px;
+}
+
+.carousel-control-next{
+    padding: 15px 15px !important;
+    background-color: rgb(106, 83, 24) !important;
+    border-radius: 20px;
+    right:-80px;
+    height: 45px;
+    width: auto;
+    top: 160px;
+}
+.service-contant{
+    padding:40px 0px 50px 0px;
+}
+
+/* hero-section style start from here */
+.portfolio-section{
+    padding:80px 0px 130px 0px;
+}
+
+
+.portfolio-contant h3{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+     
+}
+.portfolio-contant p{
+    font-size: 28px;
+    font-weight: 400;
+    text-align: center;
+    color:#a9b5c8;
+
+}
+
+.portfolio-dumant{
+    padding:70px 0px 130px 0px;
+    background-color: #f6f7fa;
+}
+
+.portfolio-dumant{
+    display: flex;
+}
+
+.portfolio-dumant .project-name h2{
+padding: 10px 0px 10px 55px;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.portfolio-dumant .project-name p{
+    padding: 10px 0px 10px 55px;
+    font-size: 20px;
+    font-weight:400;
+    font-family: 'Poppins', sans-serif;
+    color:#a9b5c8;
+}
+.portfolio-dumant .project-name img{
+    padding: 10px 0px 0px 28px;
+width: 100%;
+}
+.portfolio-project-images img{
+width: 100%;
+}
+
+.facts-consept img{
+width: 100%;
+}
+
+/* hero-section style start from here */
+
+.thousands-section{
+    padding:50px 0px;
+
+}
+
+.thousands-contant h2{
+    padding:10px 0px;
+font-size: 35px;
+font-weight:bold;
+text-align: center;
+
+
+}
+
+.thousands-contant p{
+    padding:0px 0px 50px 0px;
+font-size: 16px;
+font-weight: 400;
+text-align: center;
+margin-left: -20px;
+color:#a9b5c8;
+}
+
+.thousands-single-box{
+    display: flex;
+    padding:30px 0px 0px 0px;
+}
+.thousands-single-img img{
+width: 50px;
+height: 50px;
+border-radius: 40px;
+border: 2px solid rgb(180, 180, 180);
+}
+.single-text{
+    display:flex;
+}
+
+.single-box-icon{
+    margin-left: 80px;
+    font-weight: bold;
+}
+
+.single-box-icon span i{
+color:#ffa826;
+}
+
+.thousands-single-box p{
+    text-align: center;
+    color:#a9b5c8;
+}
+
+.single-text h5{
+font-size: 19px;
+font-weight: bold;
+}
+
+.single-text h6{
+font-size: 14px;
+
+}
+
+.thousands-paragraph p{
+font-size: 16px;
+font-weight: 400;
+text-align: center;
+padding:15px 0px 0px 0px;
+color:#a9b5c8;
+}
+.thousands-box-contents{
+    border:2px solid rgb(169, 169, 169);
+    border-radius: 10px;
+    padding:10px 20px;
+    box-shadow: #000000;
+    margin-left: 15px;
+}
+
+
+.consept-flex{
+    display: flex;
+   
+}
+
+/* hero-section style start from here */
+.lets-talk-section{
+    padding:100px 0px 0px 0px;
+}
+
+.lets-talk-contant{
+    display: flex;
+    background-color:#ffffff;
+    padding:15px 20px;
+
+
+}
+
+
+.lets-controlare{
+    display: flex;
+}
+.lets-talk-contant .talk-button .btn{
+    padding:8px 15px;
+    background-color:blue;
+    color:#ffffff;
+    font-weight: bold;
+    border-radius:20px;
+   margin-left: 130px;
+   margin-top: 45px;
+    width: 165px;
+
+}
+
+.lets-talk-contant .talk-text h2{
+font-size: 36px;
+font-weight: bold;
+
+}
+.lets-talk-contant .talk-text p{
+font-size: 16px;
+color:#a9b5c8;
+
+}
+
+
+
+
+/* hero-section style start from here */
+.futtor-section{
+    padding:200px 0px 10px 0px;
+    background-color:#d7d7d7 !important;
+   margin-top:-115px;
+}
+
+
+.futtor-headding p{
+    padding:15px 0px 15px 0px;
+font-size: 16px;
+color:#162044;
+}
+.futtor-contant{
+    display:flex;
+}
+
+.futtor-infromation{
+    display: flex;
+}
+.futtor-headding .futtor-icon li{
+    list-style: none;
+    color:#116fff;
+    font-size: 25px;
+   
+}
+.futtor-headding .futtor-icon i{
+    margin-left: 10px;
+}
+
+.futtor-icon{
+    margin-left: -40px;
+}
+
+
+
+.futtor-headding span{
+font-size: 16px;
+color:#162044;
+}
+
+.seceend-futtor-contack h3{
+    font-weight: bold;
+    font-size: 26px;
+
+}
+.seceend-futtor-contack p{
+    font-size: 16px;
+    color:#162044;
+}
+
+
+.third-futtor-text h3{
+font-size: 26px;
+font-weight: bold;
+}
+
+.third-futtor-text p{
+font-size: 16px;
+color:#162044;
+}
+/* hero-section style start from here */
+
+.servise-section{
+    padding: 80px 0px;
+}
+
+.servise-contant{
+    text-align: center;
+}
+
+.servise-contant h2{
+    font-size: 40px;
+    font-weight: 700;
+    font-style: normal;
+    padding:10px 0px 10px 0px;
+}
+
+.servise-contant p{
+    font-size: 20px;
+    font-style:normal;
+
+}
+
+
+.services-patishon{
+    display:flex;
+}
+
+.single-services img{
+    width: 65px;
+    height:auto;
+    margin-left: 80px;
+    
+}
+
+
+.services-img img{
+    background-color:#ffffff;
+    width: 80px;
+    padding:10px 10px;
+}
+
+.services-patishon{
+    padding:80px 0px;
+}
+
+.services-patishon .single-services h2{ 
+    padding:20px 0px 10px 0px;
+font-size: 20px;
+font-weight: 700;
+font-style: normal;
+text-align: center;
+}
+
+
+
+
+.services-patishon .single-services p{
+font-style: normal;
+text-align: center;
+}
+.services-patishon .single-services .btn{
+ color:#3b3eff;
+ margin-left: 60px !important;
+ font-style: normal;
+ font-weight: 600;
+ font-size: 16px;
+ line-height: 20px;
+ text-align: center;
+ text-transform: capitalize;
+  
+
+
+}
+
+
+
+.single-services{
+    padding:10px 10px;
+    border-radius:8px;
+    margin-right: 15px;
+    height: 330px;
+    width: auto;
+ 
+}
+
+
+/* hero-section style start from here */
+.compani-logo{
+    display: flex;
+}
+.compani-single-logo img{
+height:200px;
+width: 200px;
+padding:15px 15px;
+border-radius: 25px;
+
+
+
+
+}
+.compani-single-logo{
+    padding: 10px 20px;
+    margin-left: 15px;
+}
+
+
+.owl-carousel .owl-item img{
+    width: 200px;
+}
+
+.services-img img{
+    width: 100px !important;
+}
+
+.thousands-single-img img{
+    height: 50px !important;
+    width: 50px !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* hero-section style start from here */
+/* hero-section style start from here */
+/* hero-section style start from here */
+/* hero-section style start from here */
+/* hero-section style start from here */
+/* hero-section style start from here */
+/* hero-section style start from here */
+/* hero-section style start from here */
+/* hero-section style start from here */
+/* hero-section style start from here */
+/* hero-section style start from here */
+/* hero-section style start from here */
+/* hero-section style start from here */
+/* hero-section style start from here */
+/* hero-section style start from here */
+
+/* hero-section style start from here */
+
+
+
+
+
+
+
+
+
+
+
+
+
+

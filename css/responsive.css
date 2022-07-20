@@ -1,0 +1,148 @@
+/* responsive css */
+
+
+
+/* mobile responsive */
+
+
+@media only screen and (max-width: 768px) {
+
+    .contant-header .header-text h2{
+        color: #162044;
+        font-size: 36px;
+        font-weight: bold;
+        font-family: 'Poppins', sans-serif;
+        padding: 20px 0px;
+    }
+
+    .header-content{
+        display:block;
+    }
+
+    .header-manu {
+        margin-left: 0px;
+    }
+
+    .navbar-light .navbar-toggler{
+        margin-left:230px;
+        margin-top:-50px;
+    }
+
+
+    .compani-logo{
+        display: block;
+    }
+
+    .nav-item .fa-brands{
+     
+        margin-left: 60px;
+        color:blue;
+     
+    }
+
+
+    .contant-header .header-text {
+        padding: 60px 0px 0px 10px;
+    }
+
+    .contant-header{
+        display: block;
+    }
+
+    .portfolio-contant p{
+        font-size: 17px;
+    }
+    .service-contant h6{
+        font-size: 17px;
+    }
+
+    .contant-header .header-text p{
+       font-size: 20px;
+    }
+    
+    .header-text .button{
+        margin-left: 0px;
+    }
+
+    .partners-images{
+        display:block;
+    }
+
+    .carousel-control-next{
+    
+        display: none;
+    }
+    .carousel-control-prev{
+        display:none;
+    }
+    .partners-bg-img img {
+        width: 100%;
+    }
+    .thousands-contant p{
+        padding:10px 0px 10px 20px;
+    }
+    .consept-flex{
+        display:block;
+    }
+
+    .portfolio-dumant{
+        display: block;
+    }
+    .thousands-box-contents{
+        margin-top:15px;
+    }
+
+    .single-box-icon{
+        margin-left:10px;
+    }
+    .lets-talk-contant{
+        display:block;
+    }
+
+    .lets-controlare{
+        display:block;
+    }
+
+    .lets-talk-contant .talk-button .btn{
+        margin-left: 40px;
+    }
+    .futtor-contant {
+        display: block;
+    }
+
+    .futtor-infromation{
+        display:block;
+    }
+    .seceend-futtor-contack h3{
+        padding:20px 0px 0px 0px;
+    }
+    .third-futtor-text p{
+        color:black;
+    }
+
+    .services-patishon{
+        display: block;
+    }
+
+    .servise-contant p {
+        font-size: 18px;
+    }
+
+    .owl-carousel .owl-item img{
+        width: 100px;
+    }
+
+    .compani-single-logo img{
+        width: 250px !important;
+     
+    }
+
+
+
+
+
+
+    
+
+
+}
